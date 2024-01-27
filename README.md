@@ -1,7 +1,5 @@
 Aplikacja reprezentująca Bank.
 
-[hr]
-
 Składa się z:
 1. Bank
 2. Client
@@ -9,8 +7,6 @@ Składa się z:
 4. Main
 5. ResponseTransaction
 6. StatusTransaction
-
-[hr]
 
 Testy:
 1. ClientServiceTest:
